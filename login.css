@@ -1,5 +1,6 @@
 .bg-green {
   background-color: #72bb53;
+  border-color: #72bb53;
 }
 
 .bg-blue {
@@ -10,4 +11,8 @@
   color: #fff;
   background-color: #004E63;
   border-color: #004E63;
+}
+
+.checked {
+  color: orange;
 }
